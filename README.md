@@ -21,7 +21,7 @@ This project is a simple implementation of the classic Tetris game using Python 
 
 ## Installation
 1. Clone this repository to your local machine.
-   git clone https://github.com/yourusername/Tetris.git
+   git clone https://github.com/Varun-Ajith/Tetris.git
 3. Install the Pygame library using pip.
 
 ## Usage
