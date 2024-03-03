@@ -26,7 +26,7 @@ This project is a simple implementation of the classic Tetris game using Python 
 
 ## Usage
 Run the `main.py` file to start the game.
-
+! [Tetris the game](tetris.png)
 ## Credits
 This project was created by Varun Ajith.
 
